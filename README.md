@@ -302,24 +302,3 @@ Allows:
 
 ---
 
-# 👤 Author
-
-**Ibukunoluwa Owolabi**
-Aspiring Machine Learning Engineer | AI & Medical Imaging Enthusiast
-
----
-
-# ⭐ Acknowledgments
-
-* Kaggle Dataset Contributors
-* TensorFlow & Keras Community
-
----
-
-# 📜 License
-
-This project is for educational and research purposes only.
-
----
-
-If you found this helpful, please ⭐ the repository and connect with me on LinkedIn!
